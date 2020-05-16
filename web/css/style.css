@@ -1,0 +1,65 @@
+    * {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-decoration: none;
+        scroll-behavior: smooth;
+    }
+    #center{
+        background:url(file:///C:/Users/admin/Desktop/web/img/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    #center1{
+        background:url(file:///C:/Users/admin/Downloads/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    section {
+        padding: 150px 100px 100px;
+        box-sizing: border-box;
+        display: block;
+        height: 100vh;
+        background-attachment: fixed;
+    }
+    
+    section h2 {
+        margin: 0;
+        padding: 0;
+        font-size: 3.2em;
+        font-family: sans-serif;
+        font-weight: 900;
+        color: #fff;
+    }
+    
+    section p {
+        color: rgb(255, 255, 255);
+        font-size: 1.05s;
+    }
+    #center{
+        height:30%;
+    }
+    
+    #center h2 {
+        display: inline-block;
+        text-transform: uppercase;
+        border-bottom: 4px solid #3498db;
+        font-size: 2em;
+        padding-bottom: 10px;
+        margin-top: 40px;
+    }
+    #center1{
+        height:30%;
+    }
+    
+    #center1 h2 {
+        display: inline-block;
+        text-transform: uppercase;
+        border-bottom: 4px solid #3498db;
+        font-size: 2em;
+        padding-bottom: 10px;
+        margin-top: 40px;
+    }
+    
